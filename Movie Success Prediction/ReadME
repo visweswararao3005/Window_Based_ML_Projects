@@ -1,1 +1,7 @@
+This project is about Predicting a movie ,based on parameters it predict either Hit or FLop or Average.Here I used 4 Machine Learning They are 
+    1 . Naive Bayes Algorithm
+    2 . Logistic Regression Algorithm
+    3 . SVM Algorithm
+    4 . Extension ELM Algorithm
 
+to test my data i Use the algorithm which gives me high Accuracy
